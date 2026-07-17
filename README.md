@@ -1,4 +1,4 @@
-<img width="1088" height="600" alt="image" src="https://github.com/user-attachments/assets/8c1c5e25-f792-4093-80b4-c77cd8611dbb" />
+<img width="1088" height="600" alt="image" src="https://github.com/user-attachments/assets/7d267a6c-3b6f-4122-bc3d-9bce421f980f" />
 
 # VigilantCode_VS---AI_Powered_Security_Scanner_for_Visual_Studio_Code
 I recently developed and published VigilantCode VS, a Visual Studio Code extension that brings proactive security analysis directly into the developer workflow. This tool integrates Google's Gemini 2.5 Flash AI model to provide real-time, context-aware vulnerability detection without disrupting the coding environment.
