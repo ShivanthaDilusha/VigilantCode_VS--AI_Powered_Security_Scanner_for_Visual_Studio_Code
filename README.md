@@ -25,5 +25,6 @@ How 'VigilantCode_VS' work ?
 
 4)Results will be displayed on a seperated window.
 
-<img width="1337" height="929" alt="image" src="https://github.com/user-attachments/assets/04ac3330-14f2-4dbd-8826-281f447a3115" />
+<img width="1337" height="929" alt="image" src="https://github.com/user-attachments/assets/57419091-7b9c-45e5-84da-4e6b92d6c897" />
+
 
